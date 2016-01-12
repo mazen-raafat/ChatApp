@@ -10,5 +10,7 @@ package controllers;
  * @author menna
  */
 public class menna {
-    
+    public static void main(String [] arg){
+        System.out.println("controllers.menna.main()");
+    }
 }
