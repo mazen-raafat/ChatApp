@@ -10,5 +10,7 @@ package controllers;
  * @author mohamed
  */
 public class mohamedClass {
-    
+    public static void main(String[] args) {
+            
+    }
 }
